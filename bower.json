@@ -1,0 +1,26 @@
+{
+    "name": "HardwareStringResolver.js",
+    "main": [
+        "hardware_string_resolver.js"
+    ],
+    "version": "0.0.1",
+    "homepage": "https://github.com/dei79/node-ios-devices",
+    "authors": [
+        "dei79 <dirk.eisenberg@gmail.com>"
+    ],
+    "description": "A JavaScript based mapping helper to convert hardware device model codes (e.g. iPad2,1) to their human readable names (e.g. iPad 2).",
+    "keywords": [
+        "device",
+        "model",
+        "js",
+        "codes"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
