@@ -4,7 +4,7 @@
         "hardware_string_resolver.js"
     ],
     "version": "0.0.1",
-    "homepage": "https://github.com/dei79/node-ios-devices",
+    "homepage": "https://github.com/dei79/hardware-string-resolver-js.git",
     "authors": [
         "dei79 <dirk.eisenberg@gmail.com>"
     ],
