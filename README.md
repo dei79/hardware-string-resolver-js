@@ -6,6 +6,14 @@ A JavaScript based mapping helper to convert hardware device model codes (e.g. i
 The data is mainly sourced from the Wikipedia page [List of iOS devices](https://en.wikipedia.org/wiki/List_of_iOS_devices).
 The project is derived from https://github.com/JoshTheGeek/node-ios-devices.
 
+## Using
+
+Just use the try method of the HardwareStringResolver class to get the human readable name of a specific device code:
+
+```javascript
+alert(HardwareStringResolver.try('iPhone5,1'));
+```
+
 ## Contributing
 
 1. Fork it!
